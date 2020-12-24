@@ -3,3 +3,4 @@ data
 !.env.sample
 .DS_Store
 secret
+.vscode/settings.json
